@@ -22,6 +22,32 @@ The UI will look as follows:
 .A button to start, pause, and stop
 .Global keyboard shortcuts so this can be played in the background without having to change window
 
+Keyboard Shortcuts:
+
+Ctrl+[  play
+Ctrl+]  pause
+Ctrl+\  stop
+Ctrl+-  decrease speed
+Ctrl++  increase speed
+
+Ullillillia spec:
+
+
+Supported decoders:
+mp3
+flac
+wav
+
+
+Future potential features:
+hopefully webm/flv/mp4 support for youtubes
+youtube streaming playback
+
+
+Purpose of this software:
+For education as well as to make fun sounds.  Sometimes, as Ulillillia has shown me, music sounds really good when slowed down or sped up through sample rates.
+
+
 
 --------------------
 =3= License
